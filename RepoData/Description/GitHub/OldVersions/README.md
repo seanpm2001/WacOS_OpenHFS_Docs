@@ -1,0 +1,1 @@
+🍏️💾️🖥️🍎️🗄️📖️ The official documentation source repository for the OpenHFS file system included with WacOS, an open-source alternative to the Apple HFS file system. Part of the WacOS operating system project
