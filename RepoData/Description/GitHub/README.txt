@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍏️💾️🖥️🍎️🗄️📖️ The official documentation source repository for the OpenHFS file system included with WacOS, an open-source alternative to the Apple HFS file system. Part of the WacOS operating system project
